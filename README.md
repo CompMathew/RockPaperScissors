@@ -1,2 +1,2 @@
 # rock-paper-scissors
-This is a simple rock paper scissors game where the user can play against the computer.
+Simple rock paper scissors game created using Java where the user can play against the computer.
